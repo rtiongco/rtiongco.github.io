@@ -1,0 +1,34 @@
+<html>
+<head>
+<title>ALL ABOUT ME</title>
+<link rel="stylesheet" type="text/css" href="main1.css">
+</head>
+<body>
+	
+<header>
+	<div class="nav-bar">
+	<img src="logo2.jpg" class="logo">
+	<img src="logo1.png" class="logo" align="right">
+
+		<ul class="menu">
+		<li><a href="home.html"><b>HOME</b></a></li>
+		<li><a href="person.html"><b>PERSONAL INFORMATION</b></a></li>
+		<li><a href="educ.html"><b>EDUCATONAL ATTAINMENT</b></a></li>
+		<li><a href="work.html"><b>WORK EXPERIENCE</b></a></li>
+		<li><a href="fav.html"><b>FAVORITE MUSIC VIDEOS</b></a></li>
+		<li><a href="auto.html"><b>AUTOBIOGRAPHY</b></a></li>
+		<br>
+		<li><a href="auto.html"><b>CONTACT</b></a></li>
+
+		</ul>
+	</div>
+	<div class="WELCOME">
+		<h1> KNOW MORE ABOUT ME! </h1>
+		<a href="explore.html" class="btn btn1"><b> HOBBIES AND INTEREST</b></a>
+		<br>
+		<br>
+		<a href="explore2.html" class="btn btn2"><b> QOUTES</b></a>
+	</div>
+</header>
+</body>
+</html>

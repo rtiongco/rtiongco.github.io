@@ -1,0 +1,55 @@
+<style>
+body{
+	background: url(pic1.jpeg);
+}
+#wrapper{
+	width: 1000px;
+	height: 800px;
+	margin: 0 auto;
+	box-shadow: 1px 1px 10px #000;
+	border: 3px blue;
+
+}
+#header{
+	padding: 1em;
+	height: 100px;
+	margin-top: 10px;
+	background: url(pic.jpeg);
+}
+#title{
+	color: red;
+	font-style: 30pt tahoma;
+	margin-left: 180px;
+}
+#sidebar{
+	width: 24%;
+	height: 600px auto;
+	float: right;
+	background:black;
+	border-style: dotted;
+}
+#content{
+	width: 76%;
+	height: 600px auto;
+	float: left;
+	background: url(image3.jpeg);
+	border-style: none;
+
+}
+#img1{
+	border: 6px dashed blue;
+	border-radius: 50%;
+	margin: 30px 100px;
+	height: 100px;
+	width: 100px;
+
+}
+p{
+	text-align: center;
+	font: 14pt tahoma;
+	color: black;
+}
+</style>
+</head>
+<body>
+<img id="img1" src="rachel.JPEG">
